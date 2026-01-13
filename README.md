@@ -1,5 +1,5 @@
 # SM4 File Encryptor & Decryptor | 国产SM4文件加解密工具
-[English](#english) | [中文说明](#中文说明)  | [下载地址](#download)
+[中文说明](#中文说明)  | [English](#english) |  [下载地址](#download)
 <a id="中文说明"></a>
 ## 中文说明
 
