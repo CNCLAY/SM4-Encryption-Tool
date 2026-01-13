@@ -1,5 +1,6 @@
 # SM4 File Encryptor & Decryptor | 国产SM4文件加解密工具
-[English](#english-description) | [中文说明](#中文说明)
+[English](#english) | [中文说明](#中文说明)  | [下载地址]((#download))
+<a id="中文说明"></a>
 ## 中文说明
 
 ### 简介
@@ -44,7 +45,7 @@ nuitka --standalone --onefile --windows-disable-console --plugin-enable=tk-inter
 
 
 
-
+<a id="english"></a>
 ## English Description
 
 ### Introduction
@@ -84,3 +85,11 @@ The code includes logic for resource path handling in compiled environments.
 ```shell
 pyinstaller --noconfirm --onefile --windowed --icon "app_icon.ico" "sm4_tool.py"
 ```
+<a id="download"></a>
+## 🚀 下载地址 (Download)
+
+| 平台 | 版本 | 下载链接 |
+| :--- | :--- | :--- |
+| Windows | v1.0.0 | [点击下载 Sm4 eencryption_tool.exe](https://github.com/CNCLAY/SM4-Encryption-Tool/releases/tag/v1.0.0) |
+
+> **提示**：如果是直接下载运行，Windows 可能会弹出“已保护你的电脑”，请点击“更多信息” -> “仍要运行”。这是因为个人开发者生成的 EXE 没有经过昂贵的微软数字签名。
