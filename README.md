@@ -1,5 +1,5 @@
-<a name="chinese"></a>
-
+# SM4 File Encryptor & Decryptor | 国产SM4文件加解密工具
+[English](#english-description) | [中文说明](#中文说明)
 ## 中文说明
 
 ### 简介
@@ -44,7 +44,6 @@ nuitka --standalone --onefile --windows-disable-console --plugin-enable=tk-inter
 
 
 
-<a name="english"></a>
 
 ## English Description
 
